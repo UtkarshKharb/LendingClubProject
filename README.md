@@ -1,5 +1,5 @@
 # Lending_Club_Project
-In this project, I have analysed a subset of the lending club data available from Kaggle [link](https://www.kaggle.com/wordsforthewise/lending-club).
+In this project, I have analysed a subset of the lending club data available from [Kaggle.com](https://www.kaggle.com/wordsforthewise/lending-club).
 The dataset I have used(lending_club_loan_two.csv -which is the data and lending_club_info.csv -which is information about the columns) is a subset of the dataset in the above link and has additional information added to make it more usable.
 
 ## Data Preparation
