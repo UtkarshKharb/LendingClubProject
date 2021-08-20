@@ -1,5 +1,7 @@
-# Lending_Club_Project
-In this project, I have analysed a subset of the lending club data available from https://www.kaggle.com/wordsforthewise/lending-club .
+# Loan Default Prediction model based on Lending Club Data
+
+Lending Club is a US-based fintech company that offers P2P lending platform.
+In this project, I have analysed a subset of the Lending Club data available on Kaggle(https://www.kaggle.com/wordsforthewise/lending-club)
 The dataset I have used(lending_club_loan_two.csv -which is the data and lending_club_info.csv -which is information about the columns) is a subset of the dataset in the above link and has additional information added to make it more usable.
 
 ## About the data
